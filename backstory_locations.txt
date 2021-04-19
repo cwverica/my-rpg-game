@@ -1,0 +1,114 @@
+**backstory/intro**
+Our story begins long ago. It's a story that is not often told. After all, Orcs were never on the winning side of history, so they never got to write it's stories.
+Our tale follows Ullr, the Outcast...
+
+Ullr was born small for an orc, and therefore never really fit in amongst his clan. He struggled to earn his place amongst his clan, and therefore learned to win through adopting, technique, guile, fighting intelligently and efficiently. Even after becoming the most capable fighter in his clan, they still did not accept him. They teased and tormented him daily. His only repireve was to wander into the woods alone, sometimes for days at a time.
+
+Upon returning from one such adventure, he came back to his encampment to find it in ruins. Smoldering skeletons of structures and the slain bodies of his kin as far as the eye could see. Even though they tortured him, they were still his brethren. He vowed to avenge them, and bring to justice those responsible for this atrocity. As he looked at at trail of hoofprints in the ground, he knew which direction he must go...
+
+**locations**
+**Lorksh/Omkhel Kil**
+upon examining the area: (any roll) find broadsword, (med-high roll) find health vial, (high roll) find axe, (nat 20) find shield(maybe)
+
+**exit location**
+**on way out**
+As Ullr leaves what's left of your home, he comes across a couple peasants scavenging for anything of value.
+Jimbo (peasant): Look what we have here, Dalton. Do you think we should send for help? 
+Dalton(peasant): Nay, it's just about the tiniest orc you ever did see. I think we can clean up this mess.
+Jimbo: True. Who knows? They may even award us for our troubles.
+
+**enter combat**
+defeat peasants, gain xp
+
+**head to neighbor orc village**
+As Ullr approachs the neighboring orc village of Thulsn, he can tell a battle has just been waged. Walking into the encampment, he sees bodies laden with arrows, viscera and dismembered limbs of all races, strewn about. A lot of noise and commotion commences as he approachs, but quickly subsides as they realize he is also an Orc, just a very small one.
+An orc adorned with chain mail armor made from teeth approaches Ullr. He is obviously some sort of leader.
+
+Asguth: What's your business, runt!?!
+Ullr: My name is Ullr. A raiding party destroyed my encampment. Their tracks lead in this direction. It looks like you may have dealt with them as well.
+Asguth: Yes, we drove them off, but not before we suffered a heavy toll. Why are you here? Coming looking for supplies for your camp? You won't find them here!
+Ullr: No. There is nothing left of my camp.
+Asguth: Then how are you still alive? Ran and hid did you, runt!?!
+Ullr: I was out hunting when it happened, you swine! Now, the only thing I have left is vengence.
+Asguth: You!?! ::Laughs heartily:: What are you ever going to do!?!
+Ullr: I will kill them all! I will kill them all or die trying!
+::Asguth's expression changes to solemnity::
+Asguth: A noble pursuit. Come, camp with us for the night, and send off in the morning.
+
+**enter Thulsn**
+examine area: (any roll) health vials, (high roll) weeping widow, (nat 20) spot perfect fit armor
+collect health vials with minimal interaction
+ approach WW
+WW: Have you come to help us?
+Ullr: I am on a mission to avenge all of our losses.
+WW: My husband... he wasn't the best fighter, but he died before he got the chance. A rain of arrows came down as we were scrambling to prepare for battle. ::whimpers:: he was out of the fight before he ever got in it. ::sobs::
+Ullr: I am sorry for your loss. I will make those responsible pay for this!
+WW: ::calms slightly:: Then take this. It was my husbands shield, but he will not be using it again. Just make them pay!
+collect shield
+
+"Ullr spotts some plate armor that seems to be just your size. Ullr walks over, pulls it off the dead body, and it slips on like a glove. It's a perfect fit!"
+
+Night falls, he makes camp
+heal overnight
+
+set to depart in the morning
+Asguth: May the gods smile upon your journey.  And take this health vial. You'll need all the help you can get, runt! ::Asguth nods::
+Ullr: You're a righteous Orc, even if you are a swine! ::Ullr nods::
+
+**depart Thulsn**
+
+**Encounter on road**
+As Ullr walks down the road, he hears travelers approaching in the distance. As they get closer, he can see that the group is made up of 2 infantrymen and 2 peasants. They have obviously seen you, and have already readied their weapons.
+It is clear there will be no discussion.
+**enter combat**
+
+At end of combat, search the bodies: (any roll) scroll describing elder, (med roll) orcish handaxe, (high roll)  3 health vials
+
+scroll:
+Deep in the woods, there is an elder Orc. He lives at the base of the mountain. Kill him and use an orcish weapon. The tribes will split and attack each other. Then they will cease to be a problem.
+-King Adtheston
+
+**travel to the crossroads**
+Leaving the bodies stacked in the road with their banner waving amongst their bodies, Ullr takes off North, the direction his adversaries had been traveling from. In the dusk, he came to notice a beautiful stream of red lighting the clouds on fire as he came to a crossroads. To the west, a mountain lay a days travel. Pointing north, a signpost reading "Umbrenna." Unsure of where to go, he decided to make camp just off the intersection. As he made the fire, he noticed an unusual amount of bats gathering in the trees above him. When he looked up, every limb of every tree around him was covered in bats, all of them hanging upside down, staring at him intently. The moment he locked eye with the biggest one there, they all scattered in the direction of the mountain.
+In the morning when he awoke, he noticed a lone wolf off in the direction of the mountain. It howled, a call that was returned by more off behind him. As it stopped, it locked eyes with Ullr, beckoning him to follow. It turned and started an exaggerated walk off to join the pack.
+Ullr packed up his things after a bite of rotten cheese. If he left now, he may hasten to catch the murderers who had all but taken his life. On the other hand, there was something calling him towards the mountain. Which way would he go?
+
+**user chooses**
+
+**towards mountain**
+Ullr collects his things, and begins walking towards the mountain. Less than an hour into the journey, an ocelot crosses his path, stops, and runs off the path. For the next 9 hours, he follows the ocelot through dense vegitation, babbling brooks, raging rivers, swamp and finally up some rock outcroppings. As he reaches the top of one almost vertical climb, Ullr finds himself on a wide ledge. Cut in the sheer face in front of him is a small cave. The ocelot lay perched atop the opening of the cave, swishing it's tail slowly. It slowly blinks away from Ullr as he enters. 
+The back of a narrow tunnel opens up into a cavern. He sees a small trail of smoke off in one crevace in particular. As he apporaches, the light reflecting off the walls seems to dance through the entire spectrum of color. He comes upon a small bonfire outside of a sizeable house. 
+A voice calls his name as he approaches, inviting him inside. Sitting at a table an older Orc, with duller teeth, but a sharp look in his eye, waves him to a seat.
+Ullr sits down.
+Ullr: How did yo-
+Orrack: I know many things. I have traveled these lands for nigh 100 winters. I am Orakk Moghlar, and I am the glue that holds us all together. I have fought alongside the Jagtooh as well as the Orgruha. I have traveled for the Stronklub, ridden with the Urkar. I am the only reason the Burzklak and the Urbt don't all kill each other. I have served many clans, but always been true to myself. I have heard much lore in many places, and learned many things. There is a story. It changes depending on who you ask, but in all forms, it is the legend of the avenger of our kind. He has many names, but he is always depicted as a runt.
+I believe you may be him, Trasr Orking, the redeemer.
+Ullr: So then I am destined to suceed!
+Orrack: I would be cautious to celebrate so soon. I said I believe you may be Trasr, but I am not all knowing, and it is after all, only lore.
+Ullr: Destiny or not, I will exact justice!
+Orrack: Well then, let me teach you an evasive maneuver.
+Ullr: I am already the best fighter of my clan. I don't need lessons! 
+Orrack: Ahh, but this is a maneuver I learned fighting against elvenkind. It is the slightest of movement which at times allows you to completely dodge a blow!
+Ullr: Very well.
+For the next two weeks, Orrack drilled Ullr in the Elven Feint. He grew impatient as each day passed. By the time Ullr could wait no more, he had gained an understanding and could perform it about one in three attacks. 
+On the morning Ullr was to depart, Orrack approached him with a bundle of blankets.
+Orrack: In all my travels, I've come across only two of these. ::hands Ullr bundle::
+Ullr: Blankets?!? I don't need blankets!
+Orrack: Open the blanket you fool!
+Ullr did so and pulled two ornately decorated vials, with elvish script inlayed into the stoppers.
+Orrack: These are alchemic brews of great healing. I've taken them off of slain elves. I do believe you to be Trasr. May these aid in your quest!
+Ullr: I take this offering with a promise to prevail!
+Orrack: If you feel you may need further assistance, there is another legend. At the top if this mountain, two days journey from here is an Orcish relic. It is a warhammer with an energy, said to have a strange effect.
+
+**choose to retrieve relic or leave for umbrenna immediately**
+
+**to retrieve the relic**
+Ullr started his journey up the mountain. There was a narrow path that seemed to disappear at times. After a days journey of thin ledges along sheer cliffs and shale covered inclines, he came to the ridge. Further along the ridge he saw a dragon. As he approached with caution, the dragon watched him, never moving.
+
+
+
+**to Umbrenna** 
+Ullr slapped a fist on his chest, grunted, and departed on his way to Umbrenna. The journey took just short of a fortnight before he spotted the outer wall. 
+
+
+
